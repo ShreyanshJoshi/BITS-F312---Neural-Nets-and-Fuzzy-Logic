@@ -11,6 +11,6 @@ This repository contains code of the weekly labs and my solutions to the 2 assig
 *My team (Team 5) ended up finishing on top of the leaderboard in both the assignments, with a score of 0.95319 and 1 on the private leaderboard in assignments 1 and 2 respectively.*
 
 Note: 
-- Output of some cells (usually such cells included printing a very long list, involving 10000+ entries) in the assignments has been erased, to avoid excessive scrolling on Github.
+- Output of some cells (usually such cells included printing a very long list) in the assignments has been erased, to avoid excessive scrolling on Github.
 
 - An accuracy of 1 could be achieved in the second assignment, because the testing was done only on 20 videos.
